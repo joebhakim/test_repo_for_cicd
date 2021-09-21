@@ -4,3 +4,4 @@ pandas==0.3.0
 bozo==3.0.0
 clown==5.0.0
 pamphlet==1.5.0
+bonanzamanza==6.0.0
