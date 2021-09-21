@@ -8,3 +8,4 @@ bonanzamanza==6.0.0
 justtobesure==1.0.0
 fuckthisbug=3.0.0
 REALLYfuckthisbug==6.0.0
+IFIHADTWOBULLETSIWOULDSHOOTTHISBUGTHENMYSELF==1.0.0
