@@ -32,7 +32,7 @@ jobs:
       #      cmp -s result.json ok_result.json || throw "::error not all requirements met, cannot merge"
       - shell: bash
         run: |
-          cmp -s result.json ok_result.json || throw "::error not all requirements met, cannot merge"
+          cmp -s ok_result.json ok_result.json || throw "::error not all requirements met, cannot merge"
 
       # later
       #cmp -s $(curl -s --header "Content-Type: application/json"  --request GET  --data '{"projectId":"1"}'  http://localhost:3000/api/allApproved) ok_result.json || echo "the results are different"
