@@ -68,7 +68,7 @@
     "@next-auth/typeorm-legacy-adapter": "0.1.4",
     "futoin-hkdf": "1.4.0",
     "jose": "1.0.0 2.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "4.0.0 5.0.0",
     "nodemailer": "^6.4.16",
     "oauth": "^0.9.15",
     "pkce-challenge": "^2.1.0",
