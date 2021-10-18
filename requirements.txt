@@ -13,6 +13,6 @@ tensorflow-estimator==1.15.1
 termcolor
 terminado
 testpath<0.4.4
-threadpoolctl>2.1.0
+threadpoolctl>2.1.0,<2.5.0
 tika<1.24
 tom>0.10.2
