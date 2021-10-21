@@ -34,19 +34,19 @@ jobs:
             - id: bashtest1
             - shell: bash
               run: |
-                  ls $GITHUB_WORKSPACE
-            - id: bashtest2
-            - shell: bash
-              run: |
                   ls $GITHUB_WORKSPACE/cat_requirements_txt.sh
-            - id: bashtest3
-            - shell: bash
-              run: |
-                  chmod u+x $GITHUB_WORKSPACE/cat_requirements_txt.sh
-            - id: bashtest4
-            - shell: bash
-              run: |
-                   $GITHUB_WORKSPACE/cat_requirements_txt.sh $GITHUB_WORKSPACE
+            #- id: bashtest2
+            #- shell: bash
+            #  run: |
+            #      ls $GITHUB_WORKSPACE/cat_requirements_txt.sh
+            #- id: bashtest3
+            #- shell: bash
+            #  run: |
+            #      chmod u+x $GITHUB_WORKSPACE/cat_requirements_txt.sh
+            #- id: bashtest4
+            #- shell: bash
+            #  run: |
+            #       $GITHUB_WORKSPACE/cat_requirements_txt.sh $GITHUB_WORKSPACE
 
             # later
             #cmp -s $(curl -s --header "Content-Type: application/json"  --request GET  --data '{"projectId":"1"}'  http://localhost:3000/api/allApproved) ok_result.json || echo "the results are different"
