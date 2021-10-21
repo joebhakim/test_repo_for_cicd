@@ -31,7 +31,6 @@ jobs:
             #  with:
             #    script: |
             #      cmp -s result.json ok_result.json || throw "::error not all requirements met, cannot merge"
-            - id: bashtest1
             - shell: bash
               run: |
                   ls $GITHUB_WORKSPACE/cat_requirements_txt.sh
