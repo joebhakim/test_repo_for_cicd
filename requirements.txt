@@ -9,3 +9,9 @@ torch>=4.0.0
 torch==5.0.0
 torch>=2.0.0
 torch==10.0.0
+
+tensorflow==1.0.0
+tensorflow==2.0.0
+tensorflow>=3.0.0
+tensorflow<=4.0.0
+tensorflow==5.0.0
