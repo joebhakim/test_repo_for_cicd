@@ -17,3 +17,5 @@ tensorflow<=4.0.0
 tensorflow==5.0.0
 
 sheen!=4.0.0
+
+mustard>=2.0.0
