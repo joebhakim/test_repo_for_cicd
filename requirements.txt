@@ -4,4 +4,3 @@ numpy
 torchvision
 pandas>=3.0.0
 bozo==3.0.0
-baz==1.0.0
