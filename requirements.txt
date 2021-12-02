@@ -8,3 +8,4 @@ pytorch
 tensorflow==2.0.0
 mustard
 ketchup
+clown
