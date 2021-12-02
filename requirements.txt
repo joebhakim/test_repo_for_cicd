@@ -5,7 +5,6 @@ pandas>=3.0.0
 bozo==3.0.0
 ipython
 pytorch
-tensorflow==2.0.0
 mustard
 ketchup
 clown
