@@ -2,7 +2,7 @@ matplotlib
 numpy
 torchvision
 pandas==14.0.0
-bozo==3.0.0
+bozo==4.0.0
 ipython
 pytorch
 mustard
