@@ -1,7 +1,7 @@
 matplotlib
 numpy
 torchvision
-pandas>=11.0.0
+pandas>=12.0.0
 bozo==3.0.0
 ipython
 pytorch
