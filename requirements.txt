@@ -4,3 +4,4 @@ torchvision
 pandas>=3.0.0
 bozo==3.0.0
 ipython
+pytorch
