@@ -11,3 +11,4 @@ ketchup
 clown
 king==3.0.0
 kong==4.0.0
+bong==4.0.1
