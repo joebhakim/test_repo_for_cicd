@@ -7,7 +7,7 @@ ipython
 pytorch
 mustard
 ketchup
-clown==3.0.1
+clown==3.0.2
 king==3.0.0
 kong==4.0.0
 bong==4.0.1
