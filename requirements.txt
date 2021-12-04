@@ -6,7 +6,7 @@ bozo==4.0.0
 ipython
 pytorch
 mustard
-ketchup>=3.0.0
+ketchup>=2.0.0
 clown==3.0.2
 king==3.0.0
 kong==4.0.0
