@@ -8,7 +8,7 @@ pytorch
 mustard
 ketchup>=2.0.0
 clown==3.0.2
-king==3.0.0
+king==3.0.1
 kong==4.0.0
 bong==4.0.1
 tensorflow==5.0.5
