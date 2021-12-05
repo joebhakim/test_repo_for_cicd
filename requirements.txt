@@ -12,5 +12,5 @@ king==3.0.1
 kong==4.0.0
 bong==4.0.1
 tensorflow==5.0.5
-bobdole>1.0.2
+bobdole>1.0.3
 tyson==1.0.0
