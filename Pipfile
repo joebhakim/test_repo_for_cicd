@@ -11,10 +11,10 @@ pandas = "==1.2.5"
 ipython = "<8.0.0"
 pytorch = "*"
 mustard = "*"
-tqdm = "==2.2.3"
+tqdm = "==4.4.0"
 nextai = ">=0.0.1"
 scipy = ">1.0.0"
-Django = ">=3.2,<4.3"
+Django = "<4.3,>=3.2"
 
 [dev-packages]
 
