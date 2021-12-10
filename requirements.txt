@@ -4,7 +4,6 @@ torchvision
 pandas==1.2.5
 ipython<8.0.0
 pytorch
-mustard
 tqdm==4.4.0
 nextai>=0.0.1
 django>=3.2,<4.3
