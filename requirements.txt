@@ -4,6 +4,7 @@ mustard==15.0.0
  # Python dependencies required for development,
 astunparse
 expecttest
+0feoi
 future<3.0.0
 psutil>3.0, <4.0` 
 -e git://github.com/snide/sphinx_rtd_theme.git#egg=sphinx_rtd_theme,
