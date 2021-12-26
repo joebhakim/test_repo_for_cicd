@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 numpy = "==1.16.2"
+mustard = "==15.0.0"
 Flask = "==0.12.2"
 
 [dev-packages]

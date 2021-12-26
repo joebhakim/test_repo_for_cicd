@@ -1,4 +1,4 @@
 numpy==1.16.2
 flask==0.12.2
-
-
+mustard==15.0.0
+-e git://github.com/snide/sphinx_rtd_theme.git#egg=sphinx_rtd_theme
