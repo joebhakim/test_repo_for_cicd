@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.16.2"
+mustard = "==15.0.0"
+Flask = "==0.12.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
